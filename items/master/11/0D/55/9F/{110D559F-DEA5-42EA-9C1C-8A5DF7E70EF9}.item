@@ -306,7 +306,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 9caa39ee-809c-47f7-ac12-f26843924c9f
+revision: 6419bf41-ce2c-4709-a178-e86f97bfa317
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -385,14 +385,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9caa39ee-809c-47f7-ac12-f26843924c9f
+6419bf41-ce2c-4709-a178-e86f97bfa317
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170804T232932Z
+20170804T233057Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -400,6 +400,13 @@ key: __updated by
 content-length: 14
 
 sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 52
+
+<r owner="sitecore\admin" date="20170804T233057Z" />
 ----version----
 language: ja-JP
 version: 1
